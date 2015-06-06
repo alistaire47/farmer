@@ -1,0 +1,440 @@
+[
+  {
+    "": 1,
+    "mncounty": "Aitkin",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 2,
+    "mncounty": "Anoka",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 3,
+    "mncounty": "Becker",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 4,
+    "mncounty": "Beltrami",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 5,
+    "mncounty": "Benton",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 6,
+    "mncounty": "Big Stone",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 7,
+    "mncounty": "Blue Earth",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 8,
+    "mncounty": "Brown",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 9,
+    "mncounty": "Carlton",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 10,
+    "mncounty": "Carver",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 11,
+    "mncounty": "Cass",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 12,
+    "mncounty": "Chippewa",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 13,
+    "mncounty": "Chisago",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 14,
+    "mncounty": "Clay",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 15,
+    "mncounty": "Clearwater",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 16,
+    "mncounty": "Cook",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 17,
+    "mncounty": "Cottonwood",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 18,
+    "mncounty": "Crow Wing",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 19,
+    "mncounty": "Dakota",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 20,
+    "mncounty": "Dodge",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 21,
+    "mncounty": "Douglas",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 22,
+    "mncounty": "Faribault",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 23,
+    "mncounty": "Fillmore",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 24,
+    "mncounty": "Freeborn",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 25,
+    "mncounty": "Goodhue",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 26,
+    "mncounty": "Grant",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 27,
+    "mncounty": "Hennepin",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 28,
+    "mncounty": "Houston",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 29,
+    "mncounty": "Hubbard",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 30,
+    "mncounty": "Isanti",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 31,
+    "mncounty": "Itasca",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 32,
+    "mncounty": "Jackson",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 33,
+    "mncounty": "Kanabec",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 34,
+    "mncounty": "Kandiyohi",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 35,
+    "mncounty": "Kittson",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 36,
+    "mncounty": "Koochiching",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 37,
+    "mncounty": "Lac qui Parle",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 38,
+    "mncounty": "Lake",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 39,
+    "mncounty": "Lake of the Woods",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 40,
+    "mncounty": "Le Sueur",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 41,
+    "mncounty": "Lincoln",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 42,
+    "mncounty": "Lyon",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 43,
+    "mncounty": "McLeod",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 44,
+    "mncounty": "Mahnomen",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 45,
+    "mncounty": "Marshall",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 46,
+    "mncounty": "Martin",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 47,
+    "mncounty": "Meeker",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 48,
+    "mncounty": "Mille Lacs",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 49,
+    "mncounty": "Morrison",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 50,
+    "mncounty": "Mower",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 51,
+    "mncounty": "Murray",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 52,
+    "mncounty": "Nicollet",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 53,
+    "mncounty": "Nobles",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 54,
+    "mncounty": "Norman",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 55,
+    "mncounty": "Olmsted",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 56,
+    "mncounty": "Otter Tail",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 57,
+    "mncounty": "Pennington",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 58,
+    "mncounty": "Pine",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 59,
+    "mncounty": "Pipestone",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 60,
+    "mncounty": "Polk",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 61,
+    "mncounty": "Pope",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 62,
+    "mncounty": "Ramsey",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 63,
+    "mncounty": "Red Lake",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 64,
+    "mncounty": "Redwood",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 65,
+    "mncounty": "Renville",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 66,
+    "mncounty": "Rice",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 67,
+    "mncounty": "Rock",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 68,
+    "mncounty": "Roseau",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 69,
+    "mncounty": "St. Louis",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 70,
+    "mncounty": "Scott",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 71,
+    "mncounty": "Sherburne",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 72,
+    "mncounty": "Sibley",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 73,
+    "mncounty": "Stearns",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 74,
+    "mncounty": "Steele",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 75,
+    "mncounty": "Stevens",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 76,
+    "mncounty": "Swift",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 77,
+    "mncounty": "Todd",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 78,
+    "mncounty": "Traverse",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 79,
+    "mncounty": "Wabasha",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 80,
+    "mncounty": "Wadena",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 81,
+    "mncounty": "Waseca",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 82,
+    "mncounty": "Washington",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 83,
+    "mncounty": "Watonwan",
+    "mnFluBoolean": "TRUE"
+  },
+  {
+    "": 84,
+    "mncounty": "Wilkin",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 85,
+    "mncounty": "Winona",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 86,
+    "mncounty": "Wright",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": 87,
+    "mncounty": "Yellow Medicine",
+    "mnFluBoolean": "FALSE"
+  },
+  {
+    "": ""
+  }
+]
