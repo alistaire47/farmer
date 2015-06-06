@@ -1,0 +1,265 @@
+[
+  {
+    "": 1,
+    "states": "Alabama",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 2,
+    "states": "Alaska",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 3,
+    "states": "Arizona",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 4,
+    "states": "Arkansas",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 5,
+    "states": "California",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 6,
+    "states": "Colorado",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 7,
+    "states": "Connecticut",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 8,
+    "states": "Delaware",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 9,
+    "states": "District of Columbia",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 10,
+    "states": "Florida",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 11,
+    "states": "Georgia",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 12,
+    "states": "Hawaii",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 13,
+    "states": "Idaho",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 14,
+    "states": "Illinois",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 15,
+    "states": "Indiana",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 16,
+    "states": "Iowa",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 17,
+    "states": "Kansas",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 18,
+    "states": "Kentucky",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 19,
+    "states": "Louisiana",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 20,
+    "states": "Maine",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 21,
+    "states": "Maryland",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 22,
+    "states": "Massachusetts",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 23,
+    "states": "Michigan",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 24,
+    "states": "Minnesota",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 25,
+    "states": "Mississippi",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 26,
+    "states": "Missouri",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 27,
+    "states": "Montana",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 28,
+    "states": "Nebraska",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 29,
+    "states": "Nevada",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 30,
+    "states": "New Hampshire",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 31,
+    "states": "New Jersey",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 32,
+    "states": "New Mexico",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 33,
+    "states": "New York",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 34,
+    "states": "North Carolina",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 35,
+    "states": "North Dakota",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 36,
+    "states": "Ohio",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 37,
+    "states": "Oklahoma",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 38,
+    "states": "Oregon",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 39,
+    "states": "Pennsylvania",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 40,
+    "states": "Rhode Island",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 41,
+    "states": "South Carolina",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 42,
+    "states": "South Dakota",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 43,
+    "states": "Tennessee",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 44,
+    "states": "Texas",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 45,
+    "states": "Utah",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 46,
+    "states": "Vermont",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 47,
+    "states": "Virginia",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 48,
+    "states": "Washington",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 49,
+    "states": "West Virginia",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 50,
+    "states": "Wisconsin",
+    "fluBoolean": "TRUE"
+  },
+  {
+    "": 51,
+    "states": "Wyoming",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": 52,
+    "states": "Puerto Rico",
+    "fluBoolean": "FALSE"
+  },
+  {
+    "": ""
+  }
+]
